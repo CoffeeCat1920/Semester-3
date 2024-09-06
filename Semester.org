@@ -1,0 +1,60 @@
+#+TITLE: Semester 3
+#+AUTHOR: Wahab Ahmad
+* Software Requirement and Design
+** Properties
+*** Professor: Dr Zaigham
+*** Lectures
+| Day       |       Time |
+|-----------+------------|
+| Monday    |  8:30-9:30 |
+| Wednesday | 8:30-11:30 |
+*** Resources
+- [[./Software-Requirement-and-Design/Course.org][Course]]
+*** Notes
+- The guy wants "proper" dressing.
+- WAPDA wala bahi.
+- The guy is pretentious.
+- Bahi ko partipication chai.
+- "Concepts" chia
+- BC na kuch nahi karna. Khud karna ha
+* Data Structures
+** Properties
+*** Professor: Mr Wahab Ahamd
+*** Lectures
+| Day       |        Time |
+|-----------+-------------|
+| Wednesday |  11:30-4:00 |
+| Friday    | 08:30-01:30 |
+*** Resources
+- [[./Data-Structure-and-Algorithm/Course.org][Course]]
+*** Notes
+- Don't give a shit
+- Love em bout it
+* Professional Practices
+** Properties
+*** Professor: BADNAAM
+* Database-System
+** Properties
+*** Professor: Dr Zaigham
+*** Lectures
+| Day      |        Time |
+|----------+-------------|
+| Thursday |  8:30-10:30 |
+| Friday   | 12:30-01:30 |
+*** Resources
+- [[./Database-System/Course.org][Course]]
+* Islmait
+** Properties
+*** Professor: Abdul Haseeb
+*** Resources
+- Surah Marim (1-15)
+* Communication Skills
+** Properties
+*** Professor: Rameez
+*** Resources
+- [[./Communication_Skills/Course.org][Course]]
+* Pakistan Studies
+** Properties
+*** Professor: Miss Asma Bakht
+*** Resources
+- [[./Pakistan_Studies/Course.org][Course]]

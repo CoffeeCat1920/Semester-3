@@ -1,0 +1,40 @@
+#+TITLE: Software Requirement and Design
+#+AUTHOR: Wahab Ahmad
+* [2024-09-02 Mon]
+** Theory
+*** Core Topics
+*Other SDLC Stuff*
+1. Software Requirement Engineering
+2. Software Design
+*** Forward Engineering
+*** Reverse Engineering
+*** Resuability
+*** Refactoring
+* [2024-09-04 Wed]
+** Lab
+*** UML (Unified Modeling Diagram) PDF
+*** Information Systems
+**** Components of IS
+*** Layers of Software Engineering
+WTF.
+1. Process Layer
+2. Methods Layer (SDLC)
+   . Communication
+   . Requirement analysis
+   . Design modeling
+   . Testing support
+3. Tools
+4. Activities
+*** Software Process Structure
+*** Activity
+**** Activity Diagram
+**** Actor
+**** Action
+*** Patterns
+Repeated treds
+**** Design Patterns
+*** Process Models
+**** Linear Model
+**** Iterative Model
+**** Evolutionary Model
+**** Paralle Model

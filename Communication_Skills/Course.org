@@ -1,0 +1,25 @@
+#+TITLE: Communication Skills
+#+AUTHOR: Wahab Ahmad
+* [2024-09-05 Thu]
+** Communication
+The exchange of ideas by a same medium.
+** Medium
+*** Language
+*** Circumstances
+** Types
+*** Verbal
+Written or Sound communication
+*** Non-Verbal
+Neither Verbal or Oral communication.
+This happens through gesture.
+Facial expression
+*** Example
+How are you? <- verbal
+:) <- non-verbal
+** Communication Barrier
+Things that effect communication.
+*** Language Barrier
+*** Mental Barrier
+*** Context Barrier
+*** Enviromental Barrier
+*** Attention Deficency

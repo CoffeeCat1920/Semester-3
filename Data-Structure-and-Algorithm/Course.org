@@ -1,0 +1,15 @@
+#+TITLE: Data Structures and Algorithm
+#+AUTHOR: Wahab Ahmad
+* [2024-09-04 Wed]
+** Lab
+*** Data type
+**** Primitive
+**** Non-Primitive
+***** Linear
+Array like
+****** Examples
+- stack
+- qeue
+- link list
+***** Non Linear
+Graphs and Trees

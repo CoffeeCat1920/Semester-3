@@ -1,0 +1,51 @@
+#+TITLE: Database System
+#+AUTHOR: Wahab Ahmad
+* [2024-09-05 Thu]
+** Database
+- A shared collection of logicallly related data.
+- A self-describing data collection.
+- Organized data with no/minimum redundancy.
+*** CURD operation
+*** Integrity Constrains
+*** Example
+**** Universty
+| Rno | Sname  | Age |
+|-----+--------+-----|
+|   1 | Hassan |  18 |
+|   2 | Ali    |  21 |
+where Rno is a key attribute.
+** DBMS
+- Software to maintain and create provide controlled to use database.
+- It handle authority and Validation.
+*** Database Application
+*** File Processing System
+A collection of programs that perform services for the end-user such as the production of reports.
+*** Example
+Oracle, SQL, MsAccess, etc.
+* [2024-09-06 Fri]
+** Types
+*** SQL / Structure / Tabular
+With rows and columns
+**** Schema
+The order of arranging data.
+**** Example
+| Name | Pn | Mail |
+|------+----+------|
+|      |    |      |
+|      |    |      |
+*** Non-SQL / Unsructure
+Without schema.
+**** Example
+MongoDB
+** Keys
+*** Primary Key
+The attribute that is unique to every object.
+**** Example
+Roll no.
+*** Forign Key
+The key with a one to many relation which is not to be entered repeatedly.
+**** Example
+Department => Students
+** The Software we will be using
+*** MICLESOFT SQL
+*** MANGO DB
