@@ -13,3 +13,11 @@ Array like
 - link list
 ***** Non Linear
 Graphs and Trees
+* [2024-09-06 Fri]
+** Operation on Linear Array
+It can't increase itself.
+*** Traversing
+*** Inserting
+*** Deleting
+*** Search & Sorthing
+** Sorting an array
