@@ -49,3 +49,58 @@ Department => Students
 ** The Software we will be using
 *** MICLESOFT SQL
 *** MANGO DB
+* [2024-09-12 Thu]
+** 3 tier model
+- Interface
+- Business Logic
+- Database
+** ER Modeling
+*** Data modeling
+Is just waterfall for data base.
+*** Stuff we build
+- Interface ( in a domain specific lang )
+  - Good Interface
+    1. Use need to see the controls
+    2. Expressed in fimiliar way
+- Business Rules ( stuff to constrain the aspects of business )
+  - Good Business rule
+    1. It should run from the bottom level and it's influence should come to the top level
+    2. Automated through DBMS
+    3. Declaratibe
+    4. Precise
+    5. Atomic
+    6. Distinct
+    7. Expressible
+    8. Business orientied
+*** Monolythic Applicaion
+Where everything is at one place.
+*** Er Model Construction
+**** Entity instance
+***** Type
+**** Attribute
+**** Relation
+***** Type
+* [2024-09-19 Thu]
+** Entity Relationship diagram
+*** Entity gessing
+| Student  | Vechical    | Employ        |
+|----------+-------------+---------------|
+| St no    | RPM         | Post          |
+| Name     | Chases No.  | Organisation  |
+| Reg no   | Model       | Designation   |
+| Subjects | Sitting cap | Qualification |
+| Semester | Color       | Name          |
+| CGPA     | Power       | Type          |
+|          | Part Id     | Id            |
+|          | Part type   |               |
+*** Cardinality
+- One to Many ( teacher to students  )
+- Many to Many ( vendor to warehouse
+                 course to teacher
+                 hospital to patient   )
+*** Relationship
+- Unirary
+- Tertary
+*** Dependent and Independent Entity
+*** Assignment
+To find all the entities in a Uni and there attributes along with the key one and find the relations among them.

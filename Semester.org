@@ -5,6 +5,8 @@
 *** Professor: Dr Zaigham
 *** Resources
 - [[./Software-Requirement-and-Design/Course.org][Course]]
+- [[https://www.tutorialspoint.com/uml/index.htm][Tutorials Point]]
+- [[https://cs.nyu.edu/~jcf/classes/g22.2440-001_sp09/handouts/UMLBasics.pdf][PDF]]
 * Data Structures Algorithm
 ** Properties
 *** Professor: Mr Wahab Ahamd

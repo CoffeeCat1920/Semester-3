@@ -1,10 +1,9 @@
 #+TITLE: Data Structures and Algorithm
 #+AUTHOR: Wahab Ahmad
 * [2024-09-04 Wed]
-** Lab
-*** Data type
-**** Primitive
-**** Non-Primitive
+** Data type
+*** Primitive
+*** Non-Primitive
 ***** Linear
 Array like
 ****** Examples
@@ -21,3 +20,22 @@ It can't increase itself.
 *** Deleting
 *** Search & Sorthing
 ** Sorting an array
+* [2024-09-11 Wed]
+** Searching Algorithms
+- Linear Search
+- Binary Search
+* [2024-09-13 Fri]
+** Abstract Data Type
+** Stacks
+* [2024-09-18 Wed]
+** Evaluation of expression by stack
+*** Infix
+*** Polish
+**** Prefix
+**** Postfix
+*** Evaluation
+The postfix expression is scanned from left to right.
+Oprand are pushed into the memory stack.
+When it encounter an operator the top two oprands are poped.
+The operter is applied and the answer is pushed into the stack.
+*** Infix -> Postfix

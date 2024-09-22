@@ -1,5 +1,13 @@
 #+TITLE: Software Requirement and Design
 #+AUTHOR: Wahab Ahmad
+* WIKIPEDA AND OTHER USEFUL LINKS
+- [[https://en.wikipedia.org/wiki/Software_requirements_specification][]]
+- [[https://en.wikipedia.org/wiki/Requirements_engineering][]]
+- [[https://en.wikipedia.org/wiki/Requirements_analysis][]]
+- [[https://en.wikipedia.org/wiki/Unified_Modeling_Language][]]
+- [[https://www.geeksforgeeks.org/layered-technology-in-software-engineering/][]]
+- [[https://www.geeksforgeeks.org/software-processes-in-software-engineering/][]]
+- [[][]]
 * [2024-09-02 Mon]
 ** Core Topics
 *Other SDLC Stuff*
@@ -12,17 +20,26 @@
 * [2024-09-04 Wed]
 ** UML (Unified Modeling Diagram) PDF
 ** Information Systems
-**** Components of IS
+System to be used my the an organization to achieve some task which may be also used in desision making.
+It has the following components
+- Hardware
+- Software
+- Data base
+- Network
+- Process
 ** Layers of Software Engineering
-1. Process Layer
-2. Methods Layer (SDLC)
-   . Communication
-   . Requirement analysis
-   . Design modeling
-   . Testing support
-3. Tools
-4. Activities
+1. Process
+   It is a set of activity actions and tasks in order to make a product.
+   - activity : are fixed.
+   - actions : are when followed make a specific thing.
+   - task : is done to achieve a specific goal.
+2. Process frame work : A small numeber of activity that can be done on all the software.
+   communication -> planning -> modeling -> desing -> construct -> deploy
+3. Methods (SDLC)
+4. Tools
+5. A quality approach
 ** Software Process Structure
+Activities that are used to design, implement and testing of software.
 ** Activity
 **** Activity Diagram
 **** Actor
@@ -53,10 +70,85 @@ A software to build shit, jira and devops kinda stuff
 ** Process Modes
 - Linear Seqential
 - Prototyping model
-   Prototyping model
 - Rapid Application Development
 - Evolutionary Process Model
 - Spiral Model
 - WINWIN Spiral
 - Concurrent Model
 - Component Base Development
+* [2024-09-11 Wed]
+** Uml
+Unified Modeling Language
+** System Modeling
+Drawing an abstract model of a system by using diagrams.
+It is graphical.
+It helps to communicate with the client.
+It is a part of "Requirement Engineering Process".
+**** Activity Diagram
+**** Use Case Diagram
+**** Sequence Diagram
+**** Class Diagram
+**** State Diagram
+* [2024-09-18 Wed]
+** Requirement Engineering
+Requirements engineering (RE)[1] is the process of defining, documenting, and maintaining requirements[2] in the engineering design process. It is a common role in systems engineering and software engineering.
+It is the first step of sdlc process.
+*** Requirement
+A requirement is condidtion or a skill that a user needs to solve.
+*** Perpouse of requirement
+- Assesment
+- Customer expectation
+- Project planing
+- Setting scope
+*** Classification of Requirement
+**** Process Requirement
+Cost markiting, Process, salse and distribution
+**** Product Requirement
+Consists of functional and non-funtional requirement.
+It can be from either dev's or user's pov.
+* [2024-09-21 Sat]
+** Problem with RE
+- Unclear Objectives
+- Communication Problem
+- Language Barrier
+- Knowledge barriers
+- Vague formulation ( bad logic )
+- Too formal formulation
+- Instability
+- Bad Quality
+- User incoicment
+- Overlook requirement
+- In accurate planning
+  Minimal specification
+** Quality
+- Necessay
+- Feasible
+- Correct
+- Concise
+- Unambigous
+- Complete
+- Consistant
+- Verification
+- Traceable
+- Allocated
+- Design
+- No redundancy
+- Written using standards
+- Assined to a unique identifier
+- Devoid Of Classes
+** Priorty
+- Commitment
+- Fault
+- Urgercy
+- Evaluation of risk
+** Requirement Management
+Include processes for identification and management or requirement
+*** standards for it
+- ISO 9000
+- ISO 9126
+- IEEE 610
+- IEEE 830
+- IEEE 1233
+*** reason why it is negleted
+*** Possible consequences
+( there is a quiz on Moday and Wednesday is assignment day )
