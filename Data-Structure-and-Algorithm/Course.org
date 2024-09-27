@@ -39,3 +39,9 @@ Oprand are pushed into the memory stack.
 When it encounter an operator the top two oprands are poped.
 The operter is applied and the answer is pushed into the stack.
 *** Infix -> Postfix
+* MISSED
+** Types of qeues
+1. Simple
+2. Circular
+** Queu delete
+** Queu Add

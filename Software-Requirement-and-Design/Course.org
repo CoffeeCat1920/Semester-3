@@ -8,6 +8,11 @@
 - [[https://www.geeksforgeeks.org/layered-technology-in-software-engineering/][]]
 - [[https://www.geeksforgeeks.org/software-processes-in-software-engineering/][]]
 - [[][]]
+* Events
+** Quiz of SRD
+SCHEDULED: <2024-09-25 Wed>
+** My presentation topic
+- SHEDULE : TBD
 * [2024-09-02 Mon]
 ** Core Topics
 *Other SDLC Stuff*
@@ -24,7 +29,7 @@ System to be used my the an organization to achieve some task which may be also 
 It has the following components
 - Hardware
 - Software
-- Data base
+- Database
 - Network
 - Process
 ** Layers of Software Engineering
@@ -67,7 +72,7 @@ A software to build shit, jira and devops kinda stuff
 - Iterative
 - Evolutionary Model
 - Parallel Flow
-** Process Modes
+** Process Models
 - Linear Seqential
 - Prototyping model
 - Rapid Application Development
@@ -151,4 +156,23 @@ Include processes for identification and management or requirement
 - IEEE 1233
 *** reason why it is negleted
 *** Possible consequences
-( there is a quiz on Moday and Wednesday is assignment day )
+* [2024-09-23 Mon] - Requirement Engineering Process
+** Requiement Engineering process
+It is an activity in which you go back and forth. In which we identify the vasic ingrediants to make the products.
+It is an iterative process.
+Reqirement distilation us the process of making requirement pure.
+*** Elicitation, Analysis or discovery
+Work with the client to see what they need. All the steak-holder are involved.
+It is a iterative
+It gives us a timeline for the project
+**** Problem of requirement engineering
+- Stakeholders don't know what they want
+- They express their own term.
+**** Techniques
+- Interview
+  - Open or closed ended
+- Questioanre
+- Sinarios
+  - The best course of action is to see the manual of the companies
+*** Validation
+*** Management

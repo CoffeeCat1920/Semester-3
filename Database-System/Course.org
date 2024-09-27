@@ -104,3 +104,42 @@ Where everything is at one place.
 *** Dependent and Independent Entity
 *** Assignment
 To find all the entities in a Uni and there attributes along with the key one and find the relations among them.
+* MISSED
+* [2024-09-27 Fri]
+** Parser
+A translator that is different from compilers.
+*Make a paeser*
+** SQL statements
+| Statement | Description                                                                 |
+|-----------+-----------------------------------------------------------------------------|
+| CREAT     | Creates a new table, a view of a table, or other object in database         |
+| ALTER     | Modifies an existing database object, such as a table.                      |
+| DROP      | Deletes an entire table, a view of a table or other object in the database. |
+| INSERT    |                                                                             |
+| DELETE    |                                                                             |
+| UPDATE    |                                                                             |
+| GRANT     |                                                                             |
+| REVOKE    |                                                                             |
+| SELECT    | Get a certain record from the datebase.                                     |
+** SQL Constrains
+These are the rules that are applied on the rows and columns.
+*** Common constrains
+- NOT NULL Constraint: Ensures that a column cannot have NULL value.
+- DEFAULT Constraint: Provides a default value for a column when none is specified.
+- UNIQUE Constraint: Ensures that all values in a column are different.
+- PRIMARY Key: Uniquely identified each rows/records in a database table.
+- FOREIGN Key: Uniquely identified a rows/records in any another database table.
+- CHECK Constraint: The CHECK constraint ensures that all values in a column satisfy certain conditions.
+- INDEX: Use to create and retrieve data from the database very quickly.
+** Default Constrain
+The default value given to a attribute when no value is given.
+** Drop Statement
+To drop the constrain.
+** Unique Constrain
+This is automatically given to the primary key.
+** Keys
+*** Primary Key
+*** Composite Key
+*** Forign Key
+** Notes
+- CHECK MY SKL
