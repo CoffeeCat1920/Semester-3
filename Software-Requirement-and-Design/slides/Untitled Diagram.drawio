@@ -331,6 +331,9 @@
             <mxPoint x="610" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-83" value="&lt;i&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 31px;&quot;&gt;Use Case Diagram&lt;br&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="254" y="1050" width="320" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
