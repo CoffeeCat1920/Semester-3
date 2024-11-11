@@ -215,6 +215,17 @@
             <mxPoint x="650" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-60" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-5" target="NfIRLBMHop-lKGPx7cqq-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="330" as="sourcePoint" />
+            <mxPoint x="650" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="40" />
+              <mxPoint x="390" y="40" />
+              <mxPoint x="55" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
