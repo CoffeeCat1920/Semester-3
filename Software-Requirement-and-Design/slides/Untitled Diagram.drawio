@@ -233,6 +233,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-62" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;Admin&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="382.26" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
