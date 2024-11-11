@@ -91,25 +91,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="144" y="707" width="250" height="230" as="geometry" />
+          <mxGeometry x="144" y="740" width="250" height="230" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-37" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Retail Worker Tasks&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="164" y="707" width="210" height="30" as="geometry" />
+          <mxGeometry x="164" y="740" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-38" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Register Physical Rent&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="154" y="737" width="230" height="30" as="geometry" />
+          <mxGeometry x="154" y="770" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Register Physical Return&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="154" y="776.5" width="230" height="30" as="geometry" />
+          <mxGeometry x="154" y="809.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Register Physical Payment&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="154" y="817" width="230" height="30" as="geometry" />
+          <mxGeometry x="154" y="850" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-41" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Register Physical Sub&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="154" y="857" width="230" height="30" as="geometry" />
+          <mxGeometry x="154" y="890" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-42" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Register Physical UnSub&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="154" y="897" width="230" height="30" as="geometry" />
+          <mxGeometry x="154" y="930" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NfIRLBMHop-lKGPx7cqq-43" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;User&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="50" height="100" as="geometry" />
@@ -155,7 +155,8 @@
             <mxPoint x="270" y="790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="100" y="900" />
-              <mxPoint x="100" y="752" />
+              <mxPoint x="100" y="780" />
+              <mxPoint x="154" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -165,7 +166,8 @@
             <mxPoint x="270" y="790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="900" />
-              <mxPoint x="110" y="791" />
+              <mxPoint x="110" y="820" />
+              <mxPoint x="154" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
