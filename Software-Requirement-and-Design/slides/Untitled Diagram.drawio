@@ -268,6 +268,37 @@
         <mxCell id="NfIRLBMHop-lKGPx7cqq-71" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Remove record to stock&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="424" y="570" width="230" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="770" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-73" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;Curator Tasks&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="780" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-74" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Request a Record&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Courier New;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="830" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-68" target="NfIRLBMHop-lKGPx7cqq-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="251" as="sourcePoint" />
+            <mxPoint x="780" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-69" target="NfIRLBMHop-lKGPx7cqq-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664" y="284" as="sourcePoint" />
+            <mxPoint x="720" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="311" />
+              <mxPoint x="720" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-78" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-65" target="NfIRLBMHop-lKGPx7cqq-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="470" as="sourcePoint" />
+            <mxPoint x="930" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
