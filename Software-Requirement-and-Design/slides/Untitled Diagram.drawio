@@ -136,11 +136,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NfIRLBMHop-lKGPx7cqq-48" value="" style="endArrow=block;html=1;rounded=0;endFill=0;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-4">
+        <mxCell id="NfIRLBMHop-lKGPx7cqq-48" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" edge="1" parent="1" source="NfIRLBMHop-lKGPx7cqq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="610" as="sourcePoint" />
             <mxPoint x="20" y="240" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="10" y="900" />
               <mxPoint x="10" y="860" />
               <mxPoint x="10" y="610" />
               <mxPoint x="10" y="420" />
